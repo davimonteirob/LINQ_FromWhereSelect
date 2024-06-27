@@ -1,6 +1,7 @@
 ﻿using UsandoLINQ_FromWhereSelect;
 
 
+
 Console.WriteLine("gg");
 //Crie a lista de produtos e faça uma consulta usando o LINQ
 //corrija o que for necessário

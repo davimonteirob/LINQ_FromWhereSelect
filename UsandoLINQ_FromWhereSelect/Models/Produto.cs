@@ -8,6 +8,7 @@ namespace UsandoLINQ_FromWhereSelect
 {
     internal class Produto
     {
+        
         public Produto(int id, string nome, string categoria, int preco) 
         {
             Id = id;
@@ -15,7 +16,7 @@ namespace UsandoLINQ_FromWhereSelect
             Categoria = categoria;
             Preco = preco;
         }
-
+        
         public int Id { get; set; }
         public string Nome { get; set; }
         public string Categoria { get; set; }
